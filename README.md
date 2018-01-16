@@ -1,6 +1,6 @@
 # XUEZ-Website
 
-This repository is hosting the XUEZ Webiste Design and Developement Bounty contensts.
+This repository is hosting the XUEZ Website Design and Development Bounty contests.
 
 ## The Bounty System
 
@@ -26,7 +26,7 @@ The goal of the Website Design Bounty contest is to find the most defining websi
 
 ### Bounty process
 
-The team will analyse every submision to ensure that it meets the specifications. A community vote will take place afterwards and will decide the top 3 designs for a final selection.
+The team will analyze every submission to ensure that it meets the specifications. A community vote will take place afterwards and will decide the top 3 designs for a final selection.
 
 ### Deadline
 
@@ -46,6 +46,6 @@ To be announced.
 
 
 
-## Phase 2/2: Website Developement Bounty
+## Phase 2/2: Website Development Bounty
 
-More details about the Website Developement Bounty will be added.
+More details about the Website Development Bounty will be added.
