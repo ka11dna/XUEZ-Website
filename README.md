@@ -30,7 +30,7 @@ The team will analyse every submision to ensure that it meets the specifications
 
 ### Deadline
 
-Please submit your designs until 02/01/2018.
+Please submit your designs until Feb 1 2018.
 
 ### How to participate
 
