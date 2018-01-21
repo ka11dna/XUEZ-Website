@@ -35,7 +35,7 @@ Please submit your designs until Feb 1 2018.
 ### How to participate
 
 In order to participate, please submit a pull request following the next steps:
-* clone this repository 
+* clone/fork this repository 
 * create a new directory under the **designs** directory
 * place all your files (Photoshop project, Screenshots, etc.) under the new directory
 * submit a pull request 
